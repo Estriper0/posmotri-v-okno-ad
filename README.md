@@ -1,1 +1,1 @@
-https://github.com/Estriper0/posmotri-v-okno-ad/tree/refs/heads/main
+https://github.com/Estriper0/posmotri-v-okno-ad
